@@ -1,0 +1,4 @@
+[submodule "bare"]
+	path = bare
+	url = https://github.com/holepunchto/bare.git
+	branch = main
